@@ -21,7 +21,7 @@ npm start
 ```
 ## App Info
 
-### Author
+## Author
 
 Brad Traversy
 [Traversy Media](http://traversymedia.com)
@@ -30,6 +30,6 @@ Brad Traversy
 
 1.0.0
 
-### License
+## License
 
 MIT
